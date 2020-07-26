@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangtonsAnt", "LangtonsAnt\LangtonsAnt.csproj", "{CC008C0F-4506-4D71-AC80-FB1CD6F6BA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangtonsAntConsole", "LangtonsAntConsole\LangtonsAntConsole.csproj", "{439305EF-A112-46B1-B459-2B781A135A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangtonsAntWpf", "LangtonsAntWpf\LangtonsAntWpf.csproj", "{A5C4AE4E-85FD-4D60-B287-A7548A769DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC008C0F-4506-4D71-AC80-FB1CD6F6BA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC008C0F-4506-4D71-AC80-FB1CD6F6BA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC008C0F-4506-4D71-AC80-FB1CD6F6BA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC008C0F-4506-4D71-AC80-FB1CD6F6BA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439305EF-A112-46B1-B459-2B781A135A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439305EF-A112-46B1-B459-2B781A135A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439305EF-A112-46B1-B459-2B781A135A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439305EF-A112-46B1-B459-2B781A135A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C4AE4E-85FD-4D60-B287-A7548A769DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C4AE4E-85FD-4D60-B287-A7548A769DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C4AE4E-85FD-4D60-B287-A7548A769DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C4AE4E-85FD-4D60-B287-A7548A769DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
